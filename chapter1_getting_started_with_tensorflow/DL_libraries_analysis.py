@@ -42,4 +42,3 @@ plt.ylabel('Open Issues')
 plt.tight_layout()
 plt.savefig('Current_stats.png')
 plt.show()
-
